@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['r',['r',['../structJPEG__Cs_1_1_xD0_xA2_xD0_xBE_xD1_x87_xD0_xBA_xD0_xB0.html#a830b6c0d634ba04cf19c8e2c05064719',1,'JPEG_Cs::Точка']]],
+  ['read16',['Read16',['../classJPEG__Cs_1_1JPEGData.html#acc5a00523a5bd070204c925b40c3bbc5',1,'JPEG_Cs.JPEGData.Read16()'],['../classJPEG__Cs_1_1JPEGData.html#ae125f909e42d1226f7b219fa622bb27a',1,'JPEG_Cs.JPEGData.Read16(Stream curStream)']]],
+  ['read4',['Read4',['../classJPEG__Cs_1_1JPEGData.html#addf84995ab80fbda6c83f4fbcdfa11d5',1,'JPEG_Cs::JPEGData']]],
+  ['reserved',['Reserved',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4a942d4e37dd5607ab68e54755540d4a47',1,'JPEG_Cs']]],
+  ['resforappseg',['Resforappseg',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4a8ad4403dbe436825d44327b240592cbd',1,'JPEG_Cs']]],
+  ['resforjpegext',['ResforJPEGext',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4a53ab9f1b6ff31f2cd025de198daa8b6e',1,'JPEG_Cs']]],
+  ['resforjpegext_5fn_5fdarithmetic',['ResforJPEGext_n_dArithmetic',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4a08e805dead4656fcc9a1415ef940f404',1,'JPEG_Cs']]],
+  ['resources_2edesigner_2ecs',['Resources.Designer.cs',['../Resources_8Designer_8cs.html',1,'']]],
+  ['restartinterval',['restartInterval',['../classJPEG__Cs_1_1RestartInterval.html#aa4a77732aa665fd809bbe2a51269e983',1,'JPEG_Cs.RestartInterval.restartInterval()'],['../classJPEG__Cs_1_1RestartInterval.html#a04b3f980b7ab71b97eaf4dd7355510cc',1,'JPEG_Cs.RestartInterval.RestartInterval(Stream s)']]],
+  ['restartinterval',['RestartInterval',['../classJPEG__Cs_1_1RestartInterval.html',1,'JPEG_Cs']]],
+  ['restartinterval_2ecs',['RestartInterval.cs',['../RestartInterval_8cs.html',1,'']]],
+  ['restartwithmodulo8countm0',['Restartwithmodulo8countm0',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4af852e92339e4afd9ac5f0f4c36a57b74',1,'JPEG_Cs']]],
+  ['restartwithmodulo8countm1',['Restartwithmodulo8countm1',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4a6165308949bde714845cd1af789c8658',1,'JPEG_Cs']]],
+  ['restartwithmodulo8countm2',['Restartwithmodulo8countm2',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4a8d6c8c261fb9148c2135dd90b594f1c3',1,'JPEG_Cs']]],
+  ['restartwithmodulo8countm3',['Restartwithmodulo8countm3',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4a04afc793ea60df4801c02e6a29ed29d6',1,'JPEG_Cs']]],
+  ['restartwithmodulo8countm4',['Restartwithmodulo8countm4',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4a520b47dbebe0682c275c1c2f1063b1ab',1,'JPEG_Cs']]],
+  ['restartwithmodulo8countm5',['Restartwithmodulo8countm5',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4a0ffdebd7e471a375ab958ce32e5fb630',1,'JPEG_Cs']]],
+  ['restartwithmodulo8countm6',['Restartwithmodulo8countm6',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4a16e350541fa9a070d01d1bda915cdbb6',1,'JPEG_Cs']]],
+  ['restartwithmodulo8countm7',['Restartwithmodulo8countm7',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4adf0f578905fe2f8e66072d7685d4d004',1,'JPEG_Cs']]],
+  ['rgbtohsv',['RGBtoHSV',['../classJPEG__Cs_1_1RGBtoHSV.html',1,'JPEG_Cs']]],
+  ['rgbtohsv',['RGBTOHSV',['../classJPEG__Cs_1_1RGBtoHSV.html#ac47c40fab43a4250551608d7cbb02a26',1,'JPEG_Cs::RGBtoHSV']]],
+  ['rgbtohsv_2ecs',['RGBtoHSV.cs',['../RGBtoHSV_8cs.html',1,'']]]
+];

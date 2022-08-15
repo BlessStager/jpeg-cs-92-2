@@ -1,0 +1,6 @@
+<map id="JPEG_Cs.JPEGData" name="JPEG_Cs.JPEGData">
+<area shape="rect" id="node2" href="$classJPEG__Cs_1_1Frame.html" title="Содержит параметры изображения " alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node3" href="$classJPEG__Cs_1_1QuantizationTable.html" title="Хранит параметры таблицы квантования. " alt="" coords="153,80,343,107"/>
+<area shape="rect" id="node4" href="$classJPEG__Cs_1_1RestartInterval.html" title="Хранит параметр интервала повтора. " alt="" coords="368,80,539,107"/>
+<area shape="rect" id="node5" href="$classJPEG__Cs_1_1Scan.html" title="Хранит параметры закодированных данных " alt="" coords="563,80,677,107"/>
+</map>

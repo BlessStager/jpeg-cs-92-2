@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['ТестdctПреобразований',['ТестDCTПреобразований',['../classTest_1_1Program.html#af9c7b816d4f410cf84d97c5f09d3a190',1,'Test::Program']]],
+  ['Тестframe',['ТестFrame',['../classTest_1_1Program.html#a2db86db6a8d4182ee386e62b2494e82d',1,'Test::Program']]],
+  ['Тестquantizationtable',['ТестQuantizationTable',['../classTest_1_1Program.html#a0acce3de3eeeaac476325fa5f4a1dd51',1,'Test::Program']]],
+  ['Тестrestartinterval',['ТестRestartInterval',['../classTest_1_1Program.html#a7ae593dd0137335aa7288a9cb05444c9',1,'Test::Program']]],
+  ['Тестrgbtohsv',['ТестRGBtoHSV',['../classTest_1_1Program.html#ac9b695e8ae311e83cfe23da5ec394672',1,'Test::Program']]],
+  ['Тестscan',['ТестScan',['../classTest_1_1Program.html#af3a558229e9515af43c8a6f6f4a79243',1,'Test::Program']]],
+  ['ТестЗигзага',['ТестЗигзага',['../classTest_1_1Program.html#af112a24e5dcb8f479c64d8bdf3c06dc0',1,'Test::Program']]],
+  ['ТестМасштабирование',['ТестМасштабирование',['../classTest_1_1Program.html#a98a3875691204278622f1232e9c3ad5c',1,'Test::Program']]],
+  ['ТестОбратноеМасштабирование',['ТестОбратноеМасштабирование',['../classTest_1_1Program.html#a62ac2420e5ce7b180d97c61c9a1cb74c',1,'Test::Program']]],
+  ['ТестПеремешатьИСобратьМногоКаналов',['ТестПеремешатьИСобратьМногоКаналов',['../classTest_1_1Program.html#a92334824613662b8f235240e28887ddc',1,'Test::Program']]],
+  ['ТестПеремешатьИСобратьОдинКанал',['ТестПеремешатьИСобратьОдинКанал',['../classTest_1_1Program.html#a1a52edfcd06f8a8272f53602a95fa3cb',1,'Test::Program']]],
+  ['ТестРасчетdc',['ТестРасчетDC',['../classTest_1_1Program.html#ae36583aa9d30ab439d8a95077ad77283',1,'Test::Program']]],
+  ['ТестУровней',['ТестУровней',['../classTest_1_1Program.html#a9d2f004e2a9ba36345e989a20cef72ac',1,'Test::Program']]],
+  ['Тестированиеjpeg',['ТестированиеJPEG',['../classTest_1_1Program.html#aeca30453de9f55d579999ec4e2069607',1,'Test::Program']]],
+  ['ТипМаркера',['ТипМаркера',['../namespaceJPEG__Cs.html#a00299f4117a455bb8b962236943e12d4',1,'JPEG_Cs']]],
+  ['ТипыМаркеров_2ecs',['ТипыМаркеров.cs',['../_xD0_xA2_xD0_xB8_xD0_xBF_xD1_x8B_xD0_x9C_xD0_xB0_xD1_x80_xD0_xBA_xD0_xB5_xD1_x80_xD0_xBE_xD0_xB2_8cs.html',1,'']]],
+  ['Точка',['Точка',['../structJPEG__Cs_1_1_xD0_xA2_xD0_xBE_xD1_x87_xD0_xBA_xD0_xB0.html',1,'JPEG_Cs']]],
+  ['ТрансформироватьМатрицуБлоковВСписокБлоков',['ТрансформироватьМатрицуБлоковВСписокБлоков',['../classJPEG__Cs_1_1_xD0_x9F_xD1_x80_xD0_xB5_xD0_xBE_xD0_xB1_xD1_x80_xD0_xB0_xD0_xB7_xD0_xBE_xD0_xB6bf50c9187a60af60aa46afe20cc5ad8.html#ae275f788feeefc7ee936007d79c48966',1,'JPEG_Cs::Преобразователь']]],
+  ['ТрансформироватьСписокБлоковВМатрицуБлоков',['ТрансформироватьСписокБлоковВМатрицуБлоков',['../classJPEG__Cs_1_1_xD0_x9F_xD1_x80_xD0_xB5_xD0_xBE_xD0_xB1_xD1_x80_xD0_xB0_xD0_xB7_xD0_xBE_xD0_xB6bf50c9187a60af60aa46afe20cc5ad8.html#aca000eeb70d305d25bf20c3d38f7c9b6',1,'JPEG_Cs::Преобразователь']]]
+];

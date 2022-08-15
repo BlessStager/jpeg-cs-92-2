@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\jpeg-cs-92_2\TestForm\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\User\Desktop\jpeg-cs-92_2\TestForm\TestForm\bin\Debug\TestForm.exe
+C:\Users\User\Desktop\jpeg-cs-92_2\TestForm\TestForm\bin\Debug\TestForm.pdb
+C:\Users\User\Desktop\jpeg-cs-92_2\TestForm\TestForm\bin\Debug\JPEG-Cs.dll
+C:\Users\User\Desktop\jpeg-cs-92_2\TestForm\TestForm\bin\Debug\JPEG-Cs.pdb
+C:\Users\User\Desktop\jpeg-cs-92_2\TestForm\TestForm\obj\Debug\TestForm.csprojAssemblyReference.cache
+C:\Users\User\Desktop\jpeg-cs-92_2\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\User\Desktop\jpeg-cs-92_2\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+C:\Users\User\Desktop\jpeg-cs-92_2\TestForm\TestForm\obj\Debug\TestForm.csproj.CopyComplete
+C:\Users\User\Desktop\jpeg-cs-92_2\TestForm\TestForm\obj\Debug\TestForm.exe
+C:\Users\User\Desktop\jpeg-cs-92_2\TestForm\TestForm\obj\Debug\TestForm.pdb
+C:\Users\User\Desktop\jpeg-cs-92_2\TestForm\TestForm\obj\Debug\TestForm.Form1.resources

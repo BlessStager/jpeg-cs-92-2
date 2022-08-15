@@ -1,0 +1,7 @@
+<map id="Иерархия классов. Графический вид." name="Иерархия классов. Графический вид.">
+<area shape="rect" id="node1" href="$classJPEG__Cs_1_1JPEGData.html" title="Класс для работы со структурами данных JPEG " alt="" coords="5,81,153,108"/>
+<area shape="rect" id="node2" href="$classJPEG__Cs_1_1Frame.html" title="Содержит параметры изображения " alt="" coords="235,5,358,32"/>
+<area shape="rect" id="node3" href="$classJPEG__Cs_1_1QuantizationTable.html" title="Хранит параметры таблицы квантования. " alt="" coords="201,56,392,83"/>
+<area shape="rect" id="node4" href="$classJPEG__Cs_1_1RestartInterval.html" title="Хранит параметр интервала повтора. " alt="" coords="211,107,382,133"/>
+<area shape="rect" id="node5" href="$classJPEG__Cs_1_1Scan.html" title="Хранит параметры закодированных данных " alt="" coords="239,157,354,184"/>
+</map>
